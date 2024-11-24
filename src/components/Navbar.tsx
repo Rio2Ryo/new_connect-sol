@@ -15,9 +15,9 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
           <Link to="/" className="flex items-center">
             <img
-              src="http://ymtestserver.wp.xdomain.jp/pic/logo.png"
+              src="/connect-logo.png"
               alt="コネクトソル"
-              className="h-20"
+              class="h-20"
             />
           </Link>
 
