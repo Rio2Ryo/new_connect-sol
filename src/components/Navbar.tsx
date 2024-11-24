@@ -15,9 +15,9 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
           <Link to="/" className="flex items-center">
             <img
-              src="/connect-logo.png"
+              src="/conect-sol_logo.png"
               alt="コネクトソル"
-              class="h-20"
+              class="h-44"
             />
           </Link>
 
