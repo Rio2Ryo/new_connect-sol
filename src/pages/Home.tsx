@@ -9,7 +9,7 @@ export default function Home() {
 
   const salesAchievements = [
     {
-      title: 'ウェアラブルデバイス',
+      title: 'ウェアラブル',
       image: 'https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&q=80'
     },
     {
