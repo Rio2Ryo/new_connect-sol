@@ -28,19 +28,19 @@ export default function Home() {
 
   const maAchievements = [
     {
-      title: 'YouTube',
+      title: 'YouTubeM&A',
       image: 'https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&q=80'
     },
     {
-      title: 'ブログ',
+      title: 'ブログM&A',
       image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80'
     },
     {
-      title: '会社',
+      title: '会社・事業M&A',
       image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80'
     },
     {
-      title: '店舗',
+      title: '店舗M&A',
       image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80'
     }
   ];
